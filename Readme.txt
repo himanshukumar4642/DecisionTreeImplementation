@@ -1,0 +1,2 @@
+In this Project, You can find Step-wise implementation of the Decision tree Algorithm in Machine Learning.
+The Data set can be downloaded from =>https://www.kaggle.com/uciml/pima-indians-diabetes-database.
